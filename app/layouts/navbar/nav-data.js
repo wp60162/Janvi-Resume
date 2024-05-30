@@ -17,6 +17,7 @@ export const navLinks = [
     label: 'Resume',
     pathname: '/articles',
   },
+  
  
 
 ];
